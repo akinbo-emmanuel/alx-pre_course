@@ -1,1 +1,1 @@
-My first commit
+A non-empty README
